@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UAS_Aplikasi_Biodata</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="author">Author</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">alamat</string>
+    <string name="email">email</string>
+    <string name="eilinafta_gita">Eilinafta Gita</string>
+    <string name="_202201251017">202201251017</string>
+    <string name="deskripsi">Bernyanyi menjadi salah satu hobby yang saya tekuni. Saya senang mengespresikan sesuatu melalui sebuah lagu. Namun terlepas dari itu, saya memilih IT sebagai acuan untuk menggapai cita-cita saya.</string>
+    <string name="lia_listi_amaliah">Lia Listi Amaliah</string>
+    <string name="_202201251024">202201251024</string>
+    <string name="seorang_mahasiswa_teknik_informatika">Seorang mahasiswa Teknik Informatika</string>
+
+</resources>
